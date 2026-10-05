@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+data/raw/*
+!data/raw/README_DATA.md
+outputs/*.csv
+outputs/*.png
